@@ -1,0 +1,7 @@
+mkdir -p morent-robot-python-automation/tests/auth
+mkdir -p morent-robot-python-automation/tests/search
+mkdir -p morent-robot-python-automation/tests/booking
+mkdir -p morent-robot-python-automation/resources
+mkdir -p morent-robot-python-automation/python_lib
+mkdir -p morent-robot-python-automation/config
+mkdir -p morent-robot-python-automation/results
